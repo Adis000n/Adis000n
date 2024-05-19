@@ -4,7 +4,7 @@
 </h1>
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="90%" height="auto"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="60%" height="auto"/>
 </div>
 ---
 
