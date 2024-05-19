@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="60%" height="auto"/>
 </div>
+
 ---
 
 ### 👨‍💻 About Me :
@@ -32,6 +33,6 @@
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adis000n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adis000n)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adis000n&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=Adis000n&style=flat-square&color=blue" alt=""/>
 
