@@ -15,7 +15,7 @@
 
 - :telescope: Currently I am in high school.
 
-- :seedling: Exploring Technical Content Writing.
+- 🔍 If it looks like I am not active it only means the repository is not public.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
