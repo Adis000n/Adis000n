@@ -34,7 +34,7 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adis000n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adis000n&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adis000n&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=Adis000n&style=flat-square&color=blue" alt=""/>
 
